@@ -13,6 +13,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "target": "es2017",
+    "watch": true,
     "types" : [ "node" ],
     "typeRoots": [
       "node_modules/@types"
