@@ -1,0 +1,17 @@
+{
+  "name": "routing-controllers",
+  "version": "1.0.0",
+  "main": "target/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/koa": "^2.0.44",
+    "@types/koa-bodyparser": "^4.2.0",
+    "@types/koa-multer": "^1.0.0",
+    "@types/koa-router": "^7.0.27",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "routing-controllers": "^0.7.7"
+  }
+}
